@@ -126,4 +126,40 @@ Streamlines RAC's interview process, ensuring efficiency, fairness, and improved
 
 
 ## Dependencies
+**Web-based Selector-Applicant Simulation Software**
+
+### Introduction
+A web-based simulation software for unbiased Board Room interview evaluation.
+
+### Key Features
+- **User Management:** Secure access.
+- **Question Bank:** AI-driven selection.
+- **Simulation:** Realistic interview setup.
+- **Evaluation:** NLP & ML scoring.
+- **Reporting:** Detailed performance insights.
+
+### Use Cases
+- Recruitment, promotions, and mock interviews.
+
+### Technology Stack
+- **Frontend:** React.js  
+- **Backend:** Node.js  
+- **Database:** MongoDB/PostgreSQL  
+- **AI/ML:** Python (spaCy, NLTK)  
+- **Deployment:** AWS/Azure  
+- **Auth:** JWT  
+- **Video Integration:** WebRTC
+
+### Dependencies
+- React Router, Redux, Axios, spaCy, NLTK, Mongoose, Sequelize, AWS EC2 & S3.
+
+### Workflow
+1. Registration  
+2. Auto-generated questions  
+3. Virtual interview  
+4. Scoring & report generation
+
+### Impact
+Ensures efficient, fair, and improved candidate evaluation.
+
 
